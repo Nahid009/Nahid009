@@ -10,17 +10,17 @@
 
 ![Profile views](https://gpvc.arturio.dev/Nahid009)
 
-🔭 I’m currently working on ----- 
+🔭 I’m currently working on Fiver
 </br>
-🌱 I’m currently learning ---- 
+🌱 I’m currently learning JavaScript 
 </br>
-👯 I’m looking to collaborate on ---- 
+👯 I’m looking to collaborate on github 
 </br>
-💬 Ask me about ---- 
+💬 Ask me about Web Developer 
 </br>
-📫 How to reach me: ---- 
+📫 How to reach me: nahid_hasan009@yahoo.com 
 </br>
-⚡ Fun fact: -----
+⚡ Fun fact: I'm Funny 
 
 ## Skills & Experiance:
 </hr>
@@ -29,6 +29,7 @@
 - CSS3
 - Bootstrap
 - JavaScript
+- java
 - WordPress 
 - Shopify
 - Adobe
@@ -48,10 +49,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid009)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nahid009&show_icons=true"
-              /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nahid009&show_icons=true"/></p>
 
 ## GitHub Streak Stats:
 
@@ -66,11 +64,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nahid009)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Metrics:
+
 ![GitHub metrics](https://metrics.lecoq.io/Nahid009) 
 
 ## GitHub Activity Graph:
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nahid009) 
-
-
-
- 
