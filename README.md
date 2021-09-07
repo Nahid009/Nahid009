@@ -46,7 +46,9 @@
 <b>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.<b/>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= Nahid009)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid009)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username= Nahid009 &show_icons=true&locale=en" alt ="Nahid009" /></p>
 
