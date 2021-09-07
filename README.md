@@ -65,4 +65,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nahid009)](https://github.com/ryo-ma/github-profile-trophy)
 
+## GitHub Metrics:
+![GitHub metrics](https://metrics.lecoq.io/Nahid009) 
+
+## GitHub Activity Graph:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nahid009) 
+
+
+
  
