@@ -54,7 +54,7 @@
               /></p>
 
 ## GitHub Streak Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahid009 &" alt="Nahid009/"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahid009/"></p>
 
 ## GitHub Badges:
 </hr>
