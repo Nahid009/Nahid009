@@ -28,6 +28,7 @@
 - HTML5
 - CSS3
 - Bootstrap
+- Kotlin 
 - JavaScript
 - java
 - WordPress 
