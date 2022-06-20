@@ -1,4 +1,4 @@
-![I am a Front End Web developer](https://media-exp1.licdn.com/dms/image/C4E16AQEANAFWX0rmSw/profile-displaybackgroundimage-shrink_200_800/0/1601784724690?e=1636588800&v=beta&t=hA_6nrm_1HrkaHsDOfIk9KDpZ292qpa3fql9cA_OYKg)
+![I am a Android developer](https://media-exp1.licdn.com/dms/image/C4E16AQEANAFWX0rmSw/profile-displaybackgroundimage-shrink_200_800/0/1601784724690?e=1636588800&v=beta&t=hA_6nrm_1HrkaHsDOfIk9KDpZ292qpa3fql9cA_OYKg)
 
 ## Hi there, I'm Md Nahid Hasan
 
@@ -44,7 +44,7 @@
 
 ## About me:
 </hr>
-<b>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.<b/>
+<b>I’m a Android developer who is passionate about making error-free Application with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.<b/>
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid009)](https://github.com/anuraghazra/github-readme-stats)
