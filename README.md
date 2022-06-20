@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Md Nahid Hasan
 
-⚡ I'm Web Developer
+⚡ I'm Android Developer
 </br>
 ⚡ Love to write code
 </br>
@@ -12,11 +12,11 @@
 
 🔭 I’m currently working on Fiver
 </br>
-🌱 I’m currently learning JavaScript 
+🌱 I’m currently learning Flutter
 </br>
 👯 I’m looking to collaborate on github 
 </br>
-💬 Ask me about Web Developer 
+💬 Ask me about Android Developer 
 </br>
 📫 How to reach me: nahid_hasan009@yahoo.com 
 </br>
@@ -25,15 +25,14 @@
 ## Skills & Experiance:
 </hr>
 
+- Kotlin 
 - HTML5
 - CSS3
 - Bootstrap
-- Kotlin 
-- JavaScript
-- java
-- WordPress 
-- Shopify
-- Adobe
+- WordPress
+- UI/UX
+- Figma 
+
 
 ## Connect with me:
 </hr>
