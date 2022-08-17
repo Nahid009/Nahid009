@@ -26,10 +26,7 @@
 </hr>
 
 - Kotlin 
-- HTML5
-- CSS3
-- Bootstrap
-- WordPress
+- Java
 - UI/UX
 - Figma 
 
