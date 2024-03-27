@@ -2,7 +2,7 @@
 
  Hi there, I'm Md Nahid Hasan
 
-⚡ I'm Android Developer
+⚡ I'm an Android Developer
 </br>
 ⚡ Love to write code
 </br>
@@ -14,7 +14,7 @@
 </br>
 🌱 I’m currently learning Flutter
 </br>
-👯 I’m looking to collaborate on github 
+👯 I’m looking to collaborate on GitHub 
 </br>
 💬 Ask me about Android Developer 
 </br>
@@ -22,7 +22,7 @@
 </br>
 ⚡ Fun fact: I'm Funny 
 
-## Skills & Experiance:
+## Skills & Experience:
 </hr>
 
 - Kotlin 
@@ -41,7 +41,7 @@
 
 ## About me:
 </hr>
-<b>I’m a Android developer who is passionate about making error-free Application with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.<b/>
+<b>I’m an Android developer who is passionate about making error-free Applications with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication.<b/>
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid009)](https://github.com/anuraghazra/github-readme-stats)
