@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://github.com/Nahid009/Nahid009/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Md%20Nahid%20Hasan&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Android%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </div>
