@@ -22,8 +22,8 @@
 ### 👨‍💻 About Me
 I am a passionate **Android Developer** from Bangladesh. I focus on writing clean code and building user-friendly applications with smooth UI/UX.
 
-- 🔭 **Currently working on:** [Zara Trading Web Application / Zara Trading Manegment App / Bunon Web Applivation / Bunon App / Infinity Web Application]
-- 🌱 **Currently learning:** [Advanced Jetpack Compose / Clean Architecture / nest js / typescript / flutter / Dependency Injection ]
+- 🔭 **Currently working on:** Zara Trading Web & App, Bunon Web & App, Infinity Device Hub.
+- 🌱 **Currently learning:** Advanced Jetpack Compose, Clean Architecture, NestJS, TypeScript, Flutter, DI.
 - 👯 **Looking to collaborate on:** Open Source Android Projects
 - 💬 **Ask me about:** Android Development, Kotlin, Java & Logic Building
 - ⚡ **Philosophy:** I love to solve complex logic in the simplest way possible.
@@ -42,9 +42,32 @@ I am a passionate **Android Developer** from Bangladesh. I focus on writing clea
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       <br>Java
     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" />
       <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <br>Dart
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+  
+  <tr>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+      <br>NestJS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -62,8 +85,6 @@ I am a passionate **Android Developer** from Bangladesh. I focus on writing clea
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
-  </tr>
-    <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -72,7 +93,7 @@ I am a passionate **Android Developer** from Bangladesh. I focus on writing clea
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    </tr>
+  </tr>
 </table>
 
 ---
