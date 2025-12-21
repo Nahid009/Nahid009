@@ -1,69 +1,97 @@
-![I am a Android developer](https://media-exp1.licdn.com/dms/image/C4E16AQEANAFWX0rmSw/profile-displaybackgroundimage-shrink_200_800/0/1601784724690?e=1636588800&v=beta&t=hA_6nrm_1HrkaHsDOfIk9KDpZ292qpa3fql9cA_OYKg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Md%20Nahid%20Hasan&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Android%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+</div>
 
- Hi there, I'm Md Nahid Hasan
+<div align="center">
+  <a href="https://www.linkedin.com/in/mdnahidhasan-009/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nahid_hasan009@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/president.nahid/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.behance.net/presidentnahid" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+</div>
 
-⚡ I'm an Android Developer
-</br>
-⚡ Love to write code
-</br>
-⚡ Like to share my knowledge
+<br/>
 
-![Profile views](https://gpvc.arturio.dev/Nahid009)
+### 👨‍💻 About Me
+I am a passionate **Android Developer** from Bangladesh. I focus on writing clean code and building user-friendly applications with smooth UI/UX.
 
-🔭 I’m currently working on Fiver
-</br>
-🌱 I’m currently learning Flutter
-</br>
-👯 I’m looking to collaborate on GitHub 
-</br>
-💬 Ask me about Android Developer 
-</br>
-📫 How to reach me: nahid_hasan009@yahoo.com 
-</br>
-⚡ Fun fact: I'm Funny 
+- 🔭 **Currently working on:** [Zara Trading Web Application / Zara Trading Manegment App / Bunon Web Applivation / Bunon App / Infinity Web Application]
+- 🌱 **Currently learning:** [Advanced Jetpack Compose / Clean Architecture / nest js / typescript / flutter / Dependency Injection ]
+- 👯 **Looking to collaborate on:** Open Source Android Projects
+- 💬 **Ask me about:** Android Development, Kotlin, Java & Logic Building
+- ⚡ **Philosophy:** I love to solve complex logic in the simplest way possible.
 
-## Skills & Experience:
-</hr>
+---
 
-- Kotlin 
-- Java
-- UI/UX
-- Figma 
+### 🛠️ Languages & Tools
 
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    </tr>
+</table>
 
-## Connect with me:
-</hr>
-<p align="left"> <a href="https://www.linkedin.com/in/mdnahidhasan-009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdnahidhasan-009" height="30" width="40" /></a> <a href="https://www.facebook.com/president.nahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="president.nahid" height="30" width="40" /></a> <a href="https:/www.instagram.com/negligence_president/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="negligence_president" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/mdnahidhasan-009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdnahidhasan-009" height="30" width="40" /></a> <a href="https://www.behance.net/presidentnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="presidentnahid" height="30" width="40" /></a></p>
+---
 
-## Languages and Tools:
-</hr>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 📊 GitHub Statistics
 
-## About me:
-</hr>
-<b>I’m an Android developer who is passionate about making error-free Applications with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication.<b/>
-</br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nahid009&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid009&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid009)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nahid009&show_icons=true"/></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahid009&theme=radical&hide_border=true" alt="streak graph" />
+</div>
 
-## GitHub Streak Stats:
+---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nahid009) 
-
-## GitHub Badges:
-</hr>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-
-## GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nahid009)](https://github.com/ryo-ma/github-profile-trophy)
-
-## GitHub Metrics:
-
-![GitHub metrics](https://metrics.lecoq.io/Nahid009) 
-
-## GitHub Activity Graph:
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nahid009) 
+<div align="center">
+  <p>Let's turn ideas into reality! 🚀</p>
+</div>
