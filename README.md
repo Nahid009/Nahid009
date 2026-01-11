@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mdnahidhasan-009/" target="_blank">
+  <a href="linkedin.com/in/nahid-hasan-devv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nahid_hasan009@yahoo.com">
